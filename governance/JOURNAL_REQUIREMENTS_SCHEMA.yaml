@@ -1,0 +1,57 @@
+# Journal Requirements Schema v1.0
+
+# SCIRP Journals (Open Access, Medicine & Healthcare)
+SCIRP:
+  Health:
+    word_limit: 5000
+    references: 50
+    figures: 8
+    open_access: true
+    apc: free
+  OJIM:  # Open Journal of Internal Medicine
+    word_limit: 4000
+    references: 40
+    figures: 6
+    open_access: true
+    apc: free
+  OJBD:  # Open Journal of Blood Diseases
+    word_limit: 4000
+    references: 40
+    figures: 6
+    open_access: true
+    apc: free
+
+# Gates Open Research (Gates-funded researchers only)
+GatesOpenResearch:
+  research_article:
+    word_limit: 6000
+    references: unlimited
+    figures: unlimited
+    requirement: "≥1 author must be Gates-funded"
+    preprint: "VeriXiv (required after Aug 2024)"
+    prisma_required: true
+  systematic_review:
+    word_limit: 8000
+    requirement: "PRISMA guidelines mandatory"
+    registered: true
+
+# AIMCC (ACP+AHA co-published)
+AIMCC:
+  case_report:
+    word_limit: 1200
+    references: 15
+    figures: 4
+    apc_member: 743
+    apc_nonmember: 990
+    license: "CC-BY-NC-ND 4.0"
+  case_series:
+    word_limit: 1800
+    references: 20
+    figures: 4
+    apc_member: 743
+    apc_nonmember: 990
+
+---
+
+**Version**: 1.0  
+**Status**: Active ✅
