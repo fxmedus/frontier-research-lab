@@ -151,8 +151,12 @@ frontier-research-lab/
 ├── governance/                    # Core policy documents
 │   ├── LAB_GOVERNANCE_CHARTER_v1.0.md
 │   ├── MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md
+│   ├── SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md
+│   ├── Planning-Protocol-Standard-v1.0.md
+│   ├── Database-Portfolio-v1.1.md
 │   ├── AGENT_REGISTRY_v1.0.md
 │   ├── PIPELINE_REGISTRY_v1.0.md
+│   ├── FRONTIER_LAB_COMPLETE_MASTERFILE.md
 │   └── JOURNAL_REQUIREMENTS_SCHEMA.yaml
 ├── agents/                        # 37 agent office folders
 │   ├── 001_Master_Orchestrator/
@@ -202,12 +206,17 @@ This lab adheres to the **Frontier Translational Research Lab Operational Thinki
 5. **Decision Relevance**: Outputs guide real research strategy and publication decisions
 6. **Scientific Humility**: Uncertainty, assumptions, and limitations always acknowledged
 7. **Reproducibility Orientation**: Methods and reasoning transparent and repeatable
+8. **Planning Before Acting**: No systematic review search may be executed without a completed 12-section planning protocol (Pre-Flight Protocol v1.0)
 
 ### Key Documents
 - **FRONTIER_LAB_COMPLETE_MASTERFILE.md** (28,000+ words) — Consolidated system design
 - **LAB_GOVERNANCE_CHARTER_v1.0.md** — Institutional policies and authority structures
-- **MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md** — System control specifications
+- **MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md** — System control specifications with G2 pre-flight gate
+- **SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md** — 12-section mandatory pre-flight checklist for all systematic reviews
+- **Planning-Protocol-Standard-v1.0.md** — Planning vs registration governance distinction
+- **Database-Portfolio-v1.1.md** — Multi-database search requirements per review type
 - **AGENT_REGISTRY_v1.0.md** — Credential model and agent descriptions
+- **PIPELINE_REGISTRY_v1.0.md** — Active research pipeline specifications
 - **JOURNAL_REQUIREMENTS_SCHEMA.yaml** — Target venue specifications
 
 ---
@@ -218,7 +227,7 @@ This is a **closed research system** operated by Dr. Julian Borges (Director).
 
 For **collaboration inquiries** or **partnership opportunities**:
 - Email: jyborges@bu.edu
-- GitHub: [@julian-borges-md](https://github.com/julian-borges-md)
+- GitHub: [@fxmedus](https://github.com/fxmedus)
 
 ### Contributing Guidelines (if open in future)
 1. All contributions require human review before merge
@@ -323,17 +332,17 @@ This system was designed and implemented as an institutional research innovation
 
 **Dr. Julian Y. Borges, MD**  
 Director, Frontier Translational Research Lab  
-Boston University School of Medicine  
+Boston University, Department of Computer Science  
 Email: jyborges@bu.edu  
-GitHub: [@julian-borges-md](https://github.com/julian-borges-md)
+GitHub: [@fxmedus](https://github.com/fxmedus)
 
 ---
 
 <div align="center">
 
 **Status**: 🟢 Active Development  
-**Last Updated**: 2026-03-10  
-**Version**: 1.0.0
+**Last Updated**: 2026-03-18  
+**Version**: 1.1.0
 
 [Explore Documentation](governance/) • [View Agents](AGENT_REGISTRY_v1.0.md) • [See Pipelines](PIPELINE_REGISTRY_v1.0.md)
 
