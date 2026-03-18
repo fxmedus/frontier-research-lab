@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776ab.svg)](https://www.python.org)
-[![GitHub repo status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/julian-borges-md/frontier-research-lab)
+[![GitHub repo status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/fxmedus/frontier-research-lab)
 [![Governance Framework](https://img.shields.io/badge/Governance-Documented-blueviolet.svg)](governance/)
 [![Multi-Agent System](https://img.shields.io/badge/Agents-37%20Credentialed-ff69b4.svg)](AGENT_REGISTRY_v1.0.md)
 [![Publication Ready](https://img.shields.io/badge/Output-Publication%20Ready-brightgreen.svg)](manuscript-production)
@@ -113,7 +113,7 @@ Phase 11 Lab Director Decision       (Day 35)
 
 ```bash
 # Clone the repository
-git clone https://github.com/julian-borges-md/frontier-research-lab.git
+git clone https://github.com/fxmedus/frontier-research-lab.git
 cd frontier-research-lab
 
 # Install dependencies (if any)
@@ -302,7 +302,7 @@ If you use this framework or reference this work:
   author = {Borges, Julian Y.},
   title = {Frontier Translational AI Research Lab: Governed Multi-Agent System for Manuscript Production},
   year = {2026},
-  url = {https://github.com/julian-borges-md/frontier-research-lab},
+  url = {https://github.com/fxmedus/frontier-research-lab},
   doi = {(pending)}
 }
 ```
