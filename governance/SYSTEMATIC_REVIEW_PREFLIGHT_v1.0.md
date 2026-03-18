@@ -175,4 +175,4 @@ Commit: `[PROTOCOL] [POOL-N] Planning protocol v1.0 pre-search`
 
 ---
 
-*Generated: 18 March 2026 | Frontier Translational AI Research Lab*
+*Generated: 18 March 2026 | Frontier Translational Research Lab*

@@ -1,4 +1,4 @@
-# Frontier Translational AI Research Lab
+# Frontier Translational Research Lab
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ## Mission
 
-The Frontier Translational AI Research Lab is an institutional-grade research automation platform designed to produce **publication-ready scientific manuscripts** in biomedical research domains within **35 calendar days**. The system applies rigorous governance frameworks, reproducible methodologies, and multi-agent AI coordination to enable high-fidelity translational research at scale.
+The Frontier Translational Research Lab is an institutional-grade research automation platform designed to produce **publication-ready scientific manuscripts** in biomedical research domains within **35 calendar days**. The system applies rigorous governance frameworks, reproducible methodologies, and multi-agent AI coordination to enable high-fidelity translational research at scale.
 
 This lab exemplifies **extraordinary achievement in research innovation** through:
 - **Novel system design**: First-of-kind governed multi-agent orchestration for research automation
@@ -193,7 +193,7 @@ frontier-research-lab/
 
 ## Governance & Quality Standards
 
-This lab adheres to the **Frontier Translational AI Research Lab Operational Thinking Standards (v1.0)**, which mandate:
+This lab adheres to the **Frontier Translational Research Lab Operational Thinking Standards (v1.0)**, which mandate:
 
 1. **First-Principles Reasoning**: Problems decomposed into fundamental mechanisms, not surface correlations
 2. **Systems Thinking**: Analysis considers interactions across biological, computational, and organizational domains
@@ -300,7 +300,7 @@ If you use this framework or reference this work:
 ```bibtex
 @software{borges2026frontier,
   author = {Borges, Julian Y.},
-  title = {Frontier Translational AI Research Lab: Governed Multi-Agent System for Manuscript Production},
+  title = {Frontier Translational Research Lab: Governed Multi-Agent System for Manuscript Production},
   year = {2026},
   url = {https://github.com/fxmedus/frontier-research-lab},
   doi = {(pending)}
@@ -322,7 +322,7 @@ This system was designed and implemented as an institutional research innovation
 ## Contact
 
 **Dr. Julian Y. Borges, MD**  
-Director, Frontier Translational AI Research Lab  
+Director, Frontier Translational Research Lab  
 Boston University School of Medicine  
 Email: jyborges@bu.edu  
 GitHub: [@julian-borges-md](https://github.com/julian-borges-md)

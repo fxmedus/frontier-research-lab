@@ -1,4 +1,4 @@
-# Frontier Translational AI Research Lab
+# Frontier Translational Research Lab
 ## Complete Masterfile v1.0
 
 **Date**: 2026-03-11  
