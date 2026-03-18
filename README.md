@@ -151,6 +151,7 @@ frontier-research-lab/
 ├── governance/                    # Core policy documents
 │   ├── LAB_GOVERNANCE_CHARTER_v1.0.md
 │   ├── MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md
+│   ├── RESEARCH_PLANNING_PROTOCOL_v1.0.md
 │   ├── SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md
 │   ├── Planning-Protocol-Standard-v1.0.md
 │   ├── Database-Portfolio-v1.1.md
@@ -206,13 +207,14 @@ This lab adheres to the **Frontier Translational Research Lab Operational Thinki
 5. **Decision Relevance**: Outputs guide real research strategy and publication decisions
 6. **Scientific Humility**: Uncertainty, assumptions, and limitations always acknowledged
 7. **Reproducibility Orientation**: Methods and reasoning transparent and repeatable
-8. **Planning Before Acting**: No systematic review search may be executed without a completed 12-section planning protocol (Pre-Flight Protocol v1.0)
+8. **Planning Before Acting**: No research execution of any kind may begin without a completed structured planning protocol, adapted per project type (systematic reviews, MR studies, drug discovery pipelines, case reports, cohort analyses)
 
 ### Key Documents
 - **FRONTIER_LAB_COMPLETE_MASTERFILE.md** (28,000+ words) — Consolidated system design
 - **LAB_GOVERNANCE_CHARTER_v1.0.md** — Institutional policies and authority structures
-- **MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md** — System control specifications with G2 pre-flight gate
-- **SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md** — 12-section mandatory pre-flight checklist for all systematic reviews
+- **MASTER_ORCHESTRATOR_METAPROMPT_v1.0.md** — System control specifications with G2 planning gate
+- **RESEARCH_PLANNING_PROTOCOL_v1.0.md** — Universal planning protocol with 5 project-type templates (SR, MR, DrugSynth, Case Report, Cohort)
+- **SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md** — 12-section mandatory pre-flight for systematic reviews
 - **Planning-Protocol-Standard-v1.0.md** — Planning vs registration governance distinction
 - **Database-Portfolio-v1.1.md** — Multi-database search requirements per review type
 - **AGENT_REGISTRY_v1.0.md** — Credential model and agent descriptions

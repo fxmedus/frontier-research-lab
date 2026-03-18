@@ -57,25 +57,25 @@ This lab adheres to the Frontier Translational Research Lab Operational Thinking
 5. **Decision Relevance**: Outputs guide real research strategy and publication decisions
 6. **Scientific Humility**: Uncertainty, assumptions, and limitations always acknowledged
 7. **Reproducibility Orientation**: Methods and reasoning transparent and repeatable
-8. **Planning Before Acting**: No systematic review search may be executed without a completed 12-section planning protocol (see SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md)
+8. **Planning Before Acting**: No research execution of any kind may begin without a completed structured planning protocol. This applies to systematic reviews, meta-analyses, Mendelian randomization studies, drug discovery pipelines, case reports, and any other research output. The planning protocol template is adapted per project type but the principle is absolute: plan first, execute second. (See SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md for systematic reviews; see RESEARCH_PLANNING_PROTOCOL_v1.0.md for all other project types.)
 
-### G2 Gate Check — Pre-Flight Protocol Enforcement
+### G2 Gate Check — Planning Protocol Enforcement (All Project Types)
 
-Before authorizing any Phase 4 (Search Execution) task, the Master Orchestrator must verify:
+Before authorizing any Phase 4 (Execution) task for any project type, the Master Orchestrator must verify:
 
-1. Planning protocol file exists: `[PROJECT]-P[N]-PLANNING-PROTOCOL-v1.0-[YYYYMMDD].md`
-2. All 12 sections are populated (no empty sections)
-3. PICO components are explicit and unambiguous
-4. Primary outcome is singular
-5. Synthesis method is pre-specified
-6. Risk of bias tool and GRADE criteria are named
+1. Planning protocol file exists: `[PROJECT]-PLANNING-PROTOCOL-v1.0-[YYYYMMDD].md`
+2. All required sections for that project type are populated (no empty sections)
+3. Research question or objective is explicit and unambiguous
+4. Primary outcome or deliverable is singular
+5. Methods or analytical approach is pre-specified
+6. Quality assurance criteria are named (RoB tool for reviews; validation criteria for pipelines; checklist for case reports)
 
-**If any condition fails**: return task to Phase 2 Planning Agent for completion. Do not authorize search.
+**If any condition fails**: return task to Phase 2 Planning Agent for completion. Do not authorize execution.
 
-**Reference documents**:
-- `governance/SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md` — Full 12-section checklist with decision rules
-- `governance/Planning-Protocol-Standard-v1.0.md` — Planning vs registration distinction
-- `governance/Database-Portfolio-v1.1.md` — Minimum database requirements per review type
+**Project-type protocol references**:
+- Systematic reviews and meta-analyses: `governance/SYSTEMATIC_REVIEW_PREFLIGHT_v1.0.md`
+- All other research: `governance/RESEARCH_PLANNING_PROTOCOL_v1.0.md`
+- Database search requirements: `governance/Database-Portfolio-v1.1.md`
 
 ---
 
